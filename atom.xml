@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HAMSTERSI</title>
+  <subtitle>生性涼薄 擇木而修</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hamstersi.github.io/"/>
+  <updated>2017-02-15T15:06:12.000Z</updated>
+  <id>http://hamstersi.github.io/</id>
+  
+  <author>
+    <name>Hamster Si</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dust My Shoulders Off</title>
+    <link href="http://hamstersi.github.io/2017/02/Dust-My-Shoulders-Off/"/>
+    <id>http://hamstersi.github.io/2017/02/Dust-My-Shoulders-Off/</id>
+    <published>2017-02-14T14:43:34.000Z</published>
+    <updated>2017-02-15T15:06:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Dust my shoulders off and keep going.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Dust my shoulders off and keep going.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Mood" scheme="http://hamstersi.github.io/categories/Mood/"/>
+    
+    
+      <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
+    
+      <category term="Hello Hamster" scheme="http://hamstersi.github.io/tags/Hello-Hamster/"/>
+    
+      <category term="Dust It Off" scheme="http://hamstersi.github.io/tags/Dust-It-Off/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://hamstersi.github.io/2017/02/Hello-World/"/>
+    <id>http://hamstersi.github.io/2017/02/Hello-World/</id>
+    <published>2017-02-14T14:43:20.000Z</published>
+    <updated>2017-02-15T15:03:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Hello World from Hamster Si</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Hello World from Hamster Si&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://hamstersi.github.io/categories/Diary/"/>
+    
+    
+      <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
+    
+      <category term="Hello Hamster" scheme="http://hamstersi.github.io/tags/Hello-Hamster/"/>
+    
+  </entry>
+  
+</feed>
