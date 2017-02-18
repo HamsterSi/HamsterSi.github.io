@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hamstersi.github.io/"/>
-  <updated>2017-02-18T11:52:44.000Z</updated>
+  <updated>2017-02-18T11:34:44.000Z</updated>
   <id>http://hamstersi.github.io/</id>
   
   <author>
@@ -14,28 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Bilibili 地下交通站</title>
-    <link href="http://hamstersi.github.io/2017/02/Bilibili-%E5%9C%B0%E4%B8%8B%E4%BA%A4%E9%80%9A%E7%AB%99/"/>
-    <id>http://hamstersi.github.io/2017/02/Bilibili-地下交通站/</id>
-    <published>2017-02-18T11:51:13.000Z</published>
-    <updated>2017-02-18T11:52:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div class="bili_video"><embed height="100%" width="auto" quality="high" allowfullscreen type="application/x-shockwave-flash" src="http://share.acg.tv/flash.swf" flashvars="aid=6724454&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></div>]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;div class=&quot;bili_video&quot;&gt;&lt;embed height=&quot;100%&quot; width=&quot;auto&quot; quality=&quot;high&quot; allowfullscreen t
-    
-    </summary>
-    
-      <category term="Diary" scheme="http://hamstersi.github.io/categories/Diary/"/>
-    
-    
-      <category term="Bilibili" scheme="http://hamstersi.github.io/tags/Bilibili/"/>
-    
-  </entry>
   
   <entry>
     <title>2014 - 09 Auckland 浮生掠影</title>
@@ -55,11 +33,11 @@
       <category term="Diary" scheme="http://hamstersi.github.io/categories/Diary/"/>
     
     
+      <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
+    
       <category term="Photo" scheme="http://hamstersi.github.io/tags/Photo/"/>
     
       <category term="Travel" scheme="http://hamstersi.github.io/tags/Travel/"/>
-    
-      <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
     
   </entry>
   
