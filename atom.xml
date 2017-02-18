@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hamstersi.github.io/"/>
-  <updated>2017-02-16T11:06:59.000Z</updated>
+  <updated>2017-02-18T11:34:44.000Z</updated>
   <id>http://hamstersi.github.io/</id>
   
   <author>
@@ -16,28 +16,52 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Dust My Shoulders Off</title>
-    <link href="http://hamstersi.github.io/2017/02/Dust-My-Shoulders-Off/"/>
-    <id>http://hamstersi.github.io/2017/02/Dust-My-Shoulders-Off/</id>
-    <published>2017-02-14T14:43:34.000Z</published>
-    <updated>2017-02-16T11:06:59.000Z</updated>
+    <title>2014 - 09 Auckland 浮生掠影</title>
+    <link href="http://hamstersi.github.io/2017/02/2014-09-Auckland-%E6%B5%AE%E7%94%9F%E6%8E%A0%E5%BD%B1/"/>
+    <id>http://hamstersi.github.io/2017/02/2014-09-Auckland-浮生掠影/</id>
+    <published>2017-02-18T10:41:07.000Z</published>
+    <updated>2017-02-18T11:34:44.000Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="Keep-going"><a href="#Keep-going" class="headerlink" title="Keep going"></a>Keep going</h1><p>Dust my shoulders off and keep going.</p><h1 id="Fight-for-free"><a href="#Fight-for-free" class="headerlink" title="Fight for free"></a>Fight for free</h1><h2 id="test1"><a href="#test1" class="headerlink" title="test1"></a>test1</h2><p>test</p><h2 id="test2"><a href="#test2" class="headerlink" title="test2"></a>test2</h2>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="http://wx2.sinaimg.cn/large/672d88aagy1fcutfciukmj23b4274b29.jpg" alt=""><br><img src="http://wx3.sinaimg.cn/large/672d88aagy1fcutf5g35wj23b4274hdt.jpg" alt=""><br><img src="http://wx1.sinaimg.cn/large/672d88aagy1fcutfgvtxmj23b42741kx.jpg" alt=""><br><img src="http://wx3.sinaimg.cn/large/672d88aagy1fcuteo3qznj23b4274hbf.jpg" alt=""><br><img src="http://wx4.sinaimg.cn/large/672d88aagy1fcutey4l2vj23b4274hc8.jpg" alt=""><br><img src="http://wx4.sinaimg.cn/large/672d88aagy1fcutfo7pb1j23b4274e81.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;Keep-going&quot;&gt;&lt;a href=&quot;#Keep-going&quot; class=&quot;headerlink&quot; title=&quot;Keep going&quot;&gt;&lt;/a&gt;Keep g
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;img src=&quot;http://wx2.sinaimg.cn/large/672d88aagy1fcutfciukmj23b4274b29.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
     
     </summary>
     
-      <category term="Mood" scheme="http://hamstersi.github.io/categories/Mood/"/>
+      <category term="Diary" scheme="http://hamstersi.github.io/categories/Diary/"/>
     
+    
+      <category term="Photo" scheme="http://hamstersi.github.io/tags/Photo/"/>
+    
+      <category term="Travel" scheme="http://hamstersi.github.io/tags/Travel/"/>
     
       <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
     
-      <category term="Hello Hamster" scheme="http://hamstersi.github.io/tags/Hello-Hamster/"/>
+  </entry>
+  
+  <entry>
+    <title>Porting the Essential Dynamics/Molecular Dynamics method for large-scale nucleic acid simulations to ARCHER</title>
+    <link href="http://hamstersi.github.io/2017/02/Porting-the-Essential-Dynamics-Molecular-Dynamics-method-for-large-scale-nucleic-acid-simulations-to-ARCHER/"/>
+    <id>http://hamstersi.github.io/2017/02/Porting-the-Essential-Dynamics-Molecular-Dynamics-method-for-large-scale-nucleic-acid-simulations-to-ARCHER/</id>
+    <published>2017-02-18T10:26:07.000Z</published>
+    <updated>2017-02-18T11:30:00.000Z</updated>
     
-      <category term="Dust It Off" scheme="http://hamstersi.github.io/tags/Dust-It-Off/"/>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>The Molecular Dynamics (MD) simulation is an important computer modelling and simulation technique to study the physical behaviours of molecules and atoms. It has been widely applied in various scientific fields, and is of great value to do the MD simulation on biomacromolecules such as proteins and DNA, rendering scientists and researchers a rich source of information about the biological macromolecules.</p><p>The goal of this project was to develop a parallel code to perform the MD simulation on the large-scale nucleic acid DNA systems with a newly proposed method, namely the Essential Dynamics (ED), after reviewing two current existing code versions. The two codes are written in Fortran 95 with MPI and Python respectively. Both codes have implemented the new Essential Dynamics/Molecular Dynamics (ED/MD) simulation for the DNA systems but in a quite primitive mode that contain serious limitations either on the execution flexibility (the Fortran 95/MPI code) or on the performance (the serial Python code). The new code is developed in C++ with MPI, which is a more flexible parallel code version compared to the Fortran 95/MPI code in the aspect of the degree of parallelism, while the performance is significantly improved by contrast with the serial Python code. The new code is compiled and run on ARCHER during the development, but it also has fairly good portability that can be executed on other parallel platforms or in personal laptops.</p><p>The simulation results of the new C++/MPI code are verified according to the results of the Fortran 95/MPI code, and the performance is also analysed afterwards. Due to the new parallelisation strategy that is different from the Fortran 95/MPI code, the improved flexibility of the parallelism is at the expense of some message passing overheads. To reduce the overheads and improve the performance, several parallel schemes have been proposed and implemented. The performance now is quite reasonable and acceptable with less time wasted on the communication. However, the future development work can still be carried on to further improve the execution efficiency of the parallel code.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;The Molecular Dynamics (MD) simulation is an important computer modelling and simulatio
+    
+    </summary>
+    
+      <category term="Tech" scheme="http://hamstersi.github.io/categories/Tech/"/>
+    
+    
+      <category term="HPC" scheme="http://hamstersi.github.io/tags/HPC/"/>
+    
+      <category term="MPI" scheme="http://hamstersi.github.io/tags/MPI/"/>
     
   </entry>
   
@@ -46,7 +70,7 @@
     <link href="http://hamstersi.github.io/2017/02/Hello-World/"/>
     <id>http://hamstersi.github.io/2017/02/Hello-World/</id>
     <published>2017-02-14T14:43:20.000Z</published>
-    <updated>2017-02-15T15:03:01.000Z</updated>
+    <updated>2017-02-18T11:29:52.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Hello World from Hamster Si</p>]]></content>
     
@@ -60,8 +84,6 @@
     
     
       <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
-    
-      <category term="Hello Hamster" scheme="http://hamstersi.github.io/tags/Hello-Hamster/"/>
     
   </entry>
   
