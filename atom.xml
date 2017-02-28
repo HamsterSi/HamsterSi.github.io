@@ -57,9 +57,9 @@
       <category term="Diary" scheme="http://hamstersi.github.io/categories/Diary/"/>
     
     
-      <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
-    
       <category term="Photography" scheme="http://hamstersi.github.io/tags/Photography/"/>
+    
+      <category term="Hello World" scheme="http://hamstersi.github.io/tags/Hello-World/"/>
     
   </entry>
   
