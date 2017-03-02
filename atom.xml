@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hamstersi.github.io/"/>
-  <updated>2017-03-02T14:28:00.000Z</updated>
+  <updated>2017-03-02T14:31:18.000Z</updated>
   <id>http://hamstersi.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://hamstersi.github.io/2017/03/2014-09-New-Brighton-@-Christchurch/"/>
     <id>http://hamstersi.github.io/2017/03/2014-09-New-Brighton-@-Christchurch/</id>
     <published>2017-03-02T13:56:55.000Z</published>
-    <updated>2017-03-02T14:28:00.000Z</updated>
+    <updated>2017-03-02T14:31:18.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width:100%"><img src="http://wx4.sinaimg.cn/large/672d88aagy1fd8uvir0alj23b41v0npd.jpg" alt="New Brighton @ Christchurch"></div></div><div class="group-picture-row"><div class="group-picture-column" style="width:33.333333333333336%"><img src="http://wx1.sinaimg.cn/mw690/672d88aagy1fd8uv0rhn8j23b41v0npd.jpg" alt="New Brighton @ Christchurch"></div><div class="group-picture-column" style="width:33.333333333333336%"><img src="http://wx1.sinaimg.cn/mw690/672d88aagy1fd8uvdjjyyj23b41v0e81.jpg" alt="New Brighton @ Christchurch"></div><div class="group-picture-column" style="width:33.333333333333336%"><img src="http://wx2.sinaimg.cn/mw690/672d88aagy1fd8uuw8bghj23b41v0kjl.jpg" alt="New Brighton @ Christchurch"></div></div></div></div>]]></content>
     
@@ -35,7 +35,7 @@
     
       <category term="Neverland" scheme="http://hamstersi.github.io/tags/Neverland/"/>
     
-      <category term="HelloWorld" scheme="http://hamstersi.github.io/tags/HelloWorld/"/>
+      <category term="Helloworld" scheme="http://hamstersi.github.io/tags/Helloworld/"/>
     
   </entry>
   
@@ -114,7 +114,7 @@
     <link href="http://hamstersi.github.io/2017/02/2013-11-%E6%B5%AE%E7%94%9F%E5%A5%A5%E5%85%8B%E5%85%B0/"/>
     <id>http://hamstersi.github.io/2017/02/2013-11-浮生奥克兰/</id>
     <published>2017-02-18T10:41:07.000Z</published>
-    <updated>2017-03-02T14:28:06.000Z</updated>
+    <updated>2017-03-02T14:31:13.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>和家里和朋友告了别，我是听着这首歌踏入中土世界的。飞机盘旋在奥克兰上空的时候，心里特别感动。大概是被这云层下的异乡与自以为是的勇气给触动了。其实在奥克兰待得真的不算长，不久便迫于生计辗转各个城市，最终在基督城安顿了半年。</p><p>对于基督城的感情，那大概是习惯使然。而对于新西兰来说，最有标志性的还是要数奥克兰和惠灵顿。在码头听海鸥和诗人游唱，在山上看日落看霓虹渐起，望天空塔向跨年烟火许愿，我对陌生人说新年要快乐。那个时候我不曾相问未来，朋友们萍水相逢来来去去换了一批又一批，终究却还是独自上路。</p><a id="more"></a><p>我一直特别想念这中土世界，从未断过的想念，一想到她呀，心里就悸动。那个时候少年轻狂，如今也只是活了个不明不白。让我们再见吧，奥克兰、再见吧，新西兰——</p><div id="aplayer0" class="aplayer" style="margin-bottom:20px;width:99%"></div><script>new APlayer({element:document.getElementById("aplayer0"),narrow:!1,autoplay:!1,showlrc:0,music:{title:"Song of the Irish Whistle",author:"Joanie Madden",url:"http://m2.music.126.net/W2p5D6q5l4XF17yCs1Ietw==/2098967697433470.mp3",pic:"http://wx4.sinaimg.cn/large/672d88aaly9fd34xh7c7kj20ti0ti1kx.jpg"}})</script><p><img src="http://wx2.sinaimg.cn/large/672d88aagy1fcutfciukmj23b4274b29.jpg" alt="Auckland | Ferry Terminal"><br><img src="http://wx3.sinaimg.cn/large/672d88aagy1fcutf5g35wj23b4274hdt.jpg" alt="Auckland | Ferry Terminal"><br><img src="http://wx3.sinaimg.cn/large/672d88aagy1fcuteo3qznj23b4274hbf.jpg" alt="Auckland | Mt. Eden"><br><img src="http://wx4.sinaimg.cn/large/672d88aagy1fcutey4l2vj23b4274hc8.jpg" alt="Auckland | Mt. Eden"><br><img src="http://wx1.sinaimg.cn/large/672d88aagy1fcutfgvtxmj23b42741kx.jpg" alt="Auckland | Sky Tower"><br><img src="http://wx4.sinaimg.cn/large/672d88aagy1fcutfo7pb1j23b4274e81.jpg" alt="Auckland | Sky Tower"></p>]]></content>
     
@@ -129,7 +129,7 @@
     
       <category term="Neverland" scheme="http://hamstersi.github.io/tags/Neverland/"/>
     
-      <category term="HelloWorld" scheme="http://hamstersi.github.io/tags/HelloWorld/"/>
+      <category term="Helloworld" scheme="http://hamstersi.github.io/tags/Helloworld/"/>
     
   </entry>
   
@@ -162,7 +162,7 @@
     <link href="http://hamstersi.github.io/2017/02/Hello-World/"/>
     <id>http://hamstersi.github.io/2017/02/Hello-World/</id>
     <published>2017-02-14T14:43:20.000Z</published>
-    <updated>2017-03-02T14:28:14.000Z</updated>
+    <updated>2017-03-02T14:31:07.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><center><br>Hello World! This planet turns so fast, everything burns, ashes to ash, but for now you are mine…<br></center><a id="more"></a>]]></content>
     
@@ -175,7 +175,7 @@
       <category term="Diary" scheme="http://hamstersi.github.io/categories/Diary/"/>
     
     
-      <category term="HelloWorld" scheme="http://hamstersi.github.io/tags/HelloWorld/"/>
+      <category term="Helloworld" scheme="http://hamstersi.github.io/tags/Helloworld/"/>
     
   </entry>
   
