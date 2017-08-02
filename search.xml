@@ -12,11 +12,11 @@
     <entry>
       <title><![CDATA[Python爬虫：一些常用的爬虫技巧总结]]></title>
       <url>http://hamstersi.github.io/2017/08/Python%E7%88%AC%E8%99%AB%EF%BC%9A%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E7%9A%84%E7%88%AC%E8%99%AB%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="1、基本抓取网页"><a href="#1、基本抓取网页" class="headerlink" title="1、基本抓取网页"></a>1、基本抓取网页</h1><h2 id="GET方法"><a href="#GET方法" class="headerlink" title="GET方法"></a>GET方法</h2><pre class="hljs gradle"><code class="hljs gradle"><span class="hljs-keyword"><span class="hljs-keyword">import</span></span>&nbsp;urllib2
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="1、基本抓取网页"><a href="#1、基本抓取网页" class="headerlink" title="1、基本抓取网页"></a>1、基本抓取网页</h1><p>GET和POST</p><pre class="hljs gradle"><code class="hljs gradle"><span class="hljs-keyword"><span class="hljs-keyword">import</span></span>&nbsp;urllib2
 
 url&nbsp;=&nbsp;<span class="hljs-string"><span class="hljs-string">"http://www.baidu.com"</span></span>
 response&nbsp;=&nbsp;urllib2.urlopen(url)
-<span class="hljs-keyword"><span class="hljs-keyword">print</span></span>&nbsp;response.<span class="hljs-keyword"><span class="hljs-keyword">read</span></span>()</code></pre><h2 id="POST方法"><a href="#POST方法" class="headerlink" title="POST方法"></a>POST方法</h2><pre class="hljs gradle"><code class="hljs gradle"><span class="hljs-keyword"><span class="hljs-keyword">import</span></span>&nbsp;urllib
+<span class="hljs-keyword"><span class="hljs-keyword">print</span></span>&nbsp;response.<span class="hljs-keyword"><span class="hljs-keyword">read</span></span>()</code></pre><pre class="hljs gradle"><code class="hljs gradle"><span class="hljs-keyword"><span class="hljs-keyword">import</span></span>&nbsp;urllib
 <span class="hljs-keyword"><span class="hljs-keyword">import</span></span>&nbsp;urllib2
 
 url&nbsp;=&nbsp;<span class="hljs-string"><span class="hljs-string">"http://abcde.com"</span></span>
