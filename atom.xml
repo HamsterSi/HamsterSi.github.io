@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hamstersi.github.io/"/>
-  <updated>2017-03-07T14:23:14.000Z</updated>
+  <updated>2017-03-02T14:31:18.000Z</updated>
   <id>http://hamstersi.github.io/</id>
   
   <author>
@@ -14,28 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>为何生</title>
-    <link href="http://hamstersi.github.io/2017/03/%E4%B8%BA%E4%BD%95%E7%94%9F/"/>
-    <id>http://hamstersi.github.io/2017/03/为何生/</id>
-    <published>2017-03-07T14:20:36.000Z</published>
-    <updated>2017-03-07T14:23:14.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>觉得快压抑不住自己的抑郁症了，断断续续来来回回反反复复。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;觉得快压抑不住自己的抑郁症了，断断续续来来回回反反复复。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Dairy" scheme="http://hamstersi.github.io/categories/Dairy/"/>
-    
-    
-      <category term="Neverland" scheme="http://hamstersi.github.io/tags/Neverland/"/>
-    
-  </entry>
   
   <entry>
     <title>2014 - 09 New Brighton @ Christchurch.md</title>
@@ -82,28 +60,6 @@
       <category term="Architecture" scheme="http://hamstersi.github.io/tags/Architecture/"/>
     
       <category term="CPU" scheme="http://hamstersi.github.io/tags/CPU/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>路人甲</title>
-    <link href="http://hamstersi.github.io/2017/03/%E8%B7%AF%E4%BA%BA%E7%94%B2/"/>
-    <id>http://hamstersi.github.io/2017/03/路人甲/</id>
-    <published>2017-03-01T14:27:57.000Z</published>
-    <updated>2017-03-02T15:01:12.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="http://ww3.sinaimg.cn/large/672d88aajw1f1lnfjyacij20sg0g0n1y.jpg" alt=""></p><blockquote><p>Via (Twi: itukaki)</p></blockquote><div id="aplayer1" class="aplayer" style="margin-bottom:20px;width:99%"></div><script>new APlayer({element:document.getElementById("aplayer1"),narrow:!1,autoplay:!1,showlrc:0,music:{title:"茜さす",author:"Aimer",url:"http://m2.music.126.net/reA8uaUd49uc86HIouk3nQ==/18570751394368836.mp3",pic:"http://wx4.sinaimg.cn/large/672d88aagy1fd7pw728saj20no0no7dg.jpg"}})</script><p>熬过冬天，白昼始长，华灯初上的时候正值路人甲从健身房回家的脚程。公司大门外停着三三两两几辆出租车，偶尔还有外卖小哥焦急地张望着。最近天还是稍有凉意啊，不知道今年夏天会不会因为国内互联网寒冬的延续而凉快几分，不过房市倒是热闹得很。路人甲自嘲地轻笑了一声，毕竟热闹是他们的，他自己什么都没有。<br><a id="more"></a></p><p>一路上有时能看见几只流浪狗觅食，长得还挺肥。也许是因为这附近是校区，学生多。他曾经也想过捡只回家，回头想想连自己都养成这样，而且让那狗在房间呆一整天还不得憋死它。自由对于路人甲来说，是永远停不下的诉求。他大概想当然认为其他的生灵也抱着这种“不自由，毋宁死”的心态，说到底还是自己狭隘而已。难能可贵的是，他心里到底还存留着一种此乃吾生所求之念，尽管可能代价惨重。</p><p>路人甲最近又开始听起了J-POP，其实连J-POP都算不上，尽是些老掉牙的歌。路上不时也跟着旋律哼几句，结果自己又开始嫌弃起自己来。怎么能这么差劲呢？连所谓的专长上也只是个半吊子，每天上下班也尽是瞎忙。他还是想要努力提升下自己的，无奈有了目标却找不对方法，也无奈这互联网更新换代实在太快，所谓的高薪也让太多人簇拥而上。虽然学会了怎么吃皮皮虾，连怎么啃螃蟹还没学会呢，大街上大闸蟹人手一只，没过多久便过气了。</p><p>开始工作之后，他发现时间突然好像不够用了，每天还没干点正事就寥寥草草结束了。关于闲暇时做点什么，他心里其实是矛盾的，结果每天反而在这样的矛盾中混混而逝。对于编程，无论前后端都是兴趣所在，而一旦工作起来，对于金融理财的关注就不自觉地多了起来。一阵风吹来，他加快了归程的脚步。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/672d88aajw1f1lnfjyacij20sg0g0n1y.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Via (Twi: itukaki)&lt;/p&gt;&lt;/blockquote&gt;&lt;div id=&quot;aplayer1&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom:20px;width:99%&quot;&gt;&lt;/div&gt;&lt;script&gt;new APlayer({element:document.getElementById(&quot;aplayer1&quot;),narrow:!1,autoplay:!1,showlrc:0,music:{title:&quot;茜さす&quot;,author:&quot;Aimer&quot;,url:&quot;http://m2.music.126.net/reA8uaUd49uc86HIouk3nQ==/18570751394368836.mp3&quot;,pic:&quot;http://wx4.sinaimg.cn/large/672d88aagy1fd7pw728saj20no0no7dg.jpg&quot;}})&lt;/script&gt;&lt;p&gt;熬过冬天，白昼始长，华灯初上的时候正值路人甲从健身房回家的脚程。公司大门外停着三三两两几辆出租车，偶尔还有外卖小哥焦急地张望着。最近天还是稍有凉意啊，不知道今年夏天会不会因为国内互联网寒冬的延续而凉快几分，不过房市倒是热闹得很。路人甲自嘲地轻笑了一声，毕竟热闹是他们的，他自己什么都没有。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Diary" scheme="http://hamstersi.github.io/categories/Diary/"/>
-    
-    
-      <category term="Neverland" scheme="http://hamstersi.github.io/tags/Neverland/"/>
     
   </entry>
   
