@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hamstersi.github.io/"/>
-  <updated>2017-08-08T12:27:43.000Z</updated>
+  <updated>2017-08-09T13:29:40.000Z</updated>
   <id>http://hamstersi.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[V]资源分享: 国家地理百年纪念典藏</title>
+    <link href="http://hamstersi.github.io/2017/08/V-%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E7%99%BE%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%85%B8%E8%97%8F/"/>
+    <id>http://hamstersi.github.io/2017/08/V-资源分享-国家地理百年纪念典藏/</id>
+    <published>2017-08-09T13:26:39.000Z</published>
+    <updated>2017-08-09T13:29:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="http://wx4.sinaimg.cn/mw690/672d88aagy1fidrzu0hx8j2046046t9e.jpg" alt="Baiduyun"></p><p>链接: <a href="https://pan.baidu.com/s/1bphH8NP" target="_blank" rel="external">https://pan.baidu.com/s/1bphH8NP</a></p><p>密码: bdnu</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://wx4.sinaimg.cn/mw690/672d88aagy1fidrzu0hx8j2046046t9e.jpg&quot; alt=&quot;Baiduyun&quot;&gt;&lt;/p&gt;&lt;p&gt;链接: &lt;a href=&quot;https://pan.baidu.com/s/1bphH8NP&quot;&gt;https://pan.baidu.com/s/1bphH8NP&lt;/a&gt;&lt;/p&gt;&lt;p&gt;密码: bdnu&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Sharing" scheme="http://hamstersi.github.io/categories/Sharing/"/>
+    
+    
+      <category term="资源分享" scheme="http://hamstersi.github.io/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="视频" scheme="http://hamstersi.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
   
   <entry>
     <title>Application Optimization with Intel Compiler</title>
